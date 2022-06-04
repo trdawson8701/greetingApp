@@ -1,5 +1,4 @@
 certifi==2020.6.20
-click @ file:///C:/ci/click_1646056762388/work
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
 gunicorn==20.1.0
