@@ -1,12 +1,6 @@
 certifi==2020.6.20
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
 gunicorn==20.1.0
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
 MarkupSafe==2.0.1
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci_310/mkl_random_1643050563308/work
 mkl-service==2.4.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1652784037925/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
 wincertstore==0.2
